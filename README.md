@@ -55,11 +55,8 @@ I am a software architect and machine learning engineer who specializes in build
 
 ### 📈 GitHub Analytics
 
-*(You can add your GitHub streak or stats cards here by using tools like anuraghazra/github-readme-stats)*
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AA-TECH-PROJECTS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-<br>
+<img src="https://streak-stats.demolab.com/?user=AA-TECH-PROJECTS&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" /><br>
 
 *“True engineering isn't about writing code; it’s about solving unstructured problems.”* **Let's build something.**  Reach out directly via [Gmail](abdullah.adnan5678@gmail.com).
 
