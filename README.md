@@ -4,8 +4,8 @@
 **AI/ML Engineer | Software Architect | Co-Founder @ AA Quantum Tech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/abdullah-adnan-ba06642b6)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullah.adnan5678@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Visit_Portfolio-1f2328?style=flat-square&logo=google-chrome)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](abdullah.adnan5678@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Visit_Portfolio-1f2328?style=flat-square&logo=google-chrome)](https://github.com/AA-TECH-PROJECTS)
 [![CEH Certified](https://img.shields.io/badge/Certification-CEH-red?style=flat-square&logo=hackthebox)](#)
 
 *Bridging the gap between complex AI theory and scalable, production-ready software.*
@@ -57,10 +57,10 @@ I am a software architect and machine learning engineer who specializes in build
 
 *(You can add your GitHub streak or stats cards here by using tools like anuraghazra/github-readme-stats)*
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AA-TECH-PROJECTS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
 <br>
 
-*“True engineering isn't about writing code; it’s about solving unstructured problems.”* **Let's build something.**  Reach out directly via [Gmail](mailto:abdullah.adnan5678@gmail.com).
+*“True engineering isn't about writing code; it’s about solving unstructured problems.”* **Let's build something.**  Reach out directly via [Gmail](abdullah.adnan5678@gmail.com).
 
 </div>
