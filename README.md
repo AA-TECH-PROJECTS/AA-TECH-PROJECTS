@@ -27,16 +27,13 @@ I am a software architect and machine learning engineer who specializes in build
 ### 🛠️ Technical Arsenal
 
 **AI & Machine Learning**
-> `Python` | `Scikit-Learn` | `XGBoost` | `LangChain` | `Pinecone` | `Pandas` 
+> `Python` | `LangChain` | `Pandas` 
 
 **Backend & Architecture**
-> `FastAPI` | `Docker` | `PostgreSQL` | `REST APIs` | `System Architecture` 
-
-**Frontend & Mobile**
-> `Angular` | `Ionic` | `TypeScript` 
+> `FastAPI` | `Docker` | `PostgreSQL` | `REST APIs`
 
 **Security & Automation**
-> `Certified Ethical Hacker (CEH)` | `Make.com` | `Apify` | `CI/CD`
+> `Certified Ethical Hacker (CEH)` | `Make.com` | `CI/CD`
 
 <br>
 
@@ -45,7 +42,6 @@ I am a software architect and machine learning engineer who specializes in build
 * **Algorithmic Trading Bot:** Architected a fully automated Python-based cryptocurrency trading engine. Engineered live data ingestion pipelines, feature engineering, and a predictive ML model to execute trades autonomously based on high-frequency market data.
 * **Harvest Hub:** Developed a comprehensive, full-stack agricultural trading platform from the ground up, designed to optimize supply chain connectivity and forecast market trends.
 * **Resume Match Hub:** Built and deployed a scalable resume-building web platform, managing everything from the frontend user experience to backend deployment and monetization strategies.
-* **Cross-Platform Mobile Apps:** Engineered robust mobile applications utilizing the Angular Ionic framework.
 
 <br>
 
