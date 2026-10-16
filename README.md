@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Abdullah Adnan
-**AI/ML Engineer | Software Architect | Co-Founder @ AA Quantum Tech**
+**Web Development Intern @ Mindravel Interactive | AI/ML Engineer | Software Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/abdullah-adnan-ba06642b6)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](abdullah.adnan5678@gmail.com)
